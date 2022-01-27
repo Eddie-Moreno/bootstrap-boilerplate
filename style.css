@@ -1,0 +1,16 @@
+h1{
+    color:cornflowerblue;
+}
+.btn-outline-success{
+    color: cornflowerblue;
+    border-color: cornflowerblue;
+}
+.col{
+    padding: 35px;
+}
+.column-color{
+    background-color:cornflowerblue;
+}
+footer{
+    padding: auto;
+}
