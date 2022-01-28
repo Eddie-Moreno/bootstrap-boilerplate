@@ -5,12 +5,21 @@ h1{
     color: cornflowerblue;
     border-color: cornflowerblue;
 }
+.jumbotron{
+    /* margin: 50px; */
+    background-color: lightgray;
+    /* padding: 30px; */
+}
+h2{
+    height: 10px;
+}
 .col{
     padding: 35px;
 }
 .column-color{
-    background-color:cornflowerblue;
+    margin: 50px;
 }
 footer{
     padding: auto;
+    margin-top: 50px;
 }
